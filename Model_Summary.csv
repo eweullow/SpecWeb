@@ -1,0 +1,5 @@
+"Soil properties","PCs","LOOCV RMSEC","LOOCV Rsquared","Holdout RMSEP","Holdout Rsquared"
+"Total_Nitrogen","10","0.01","0.98","0.02","0.85"
+"Total_Carbon","10","0.16","0.99","0.33","0.9"
+"Acidified_Nitrogen","10","0.01","0.98","0.02","0.81"
+"Acidified_Carbon","10","0.16","0.99","0.33","0.92"
